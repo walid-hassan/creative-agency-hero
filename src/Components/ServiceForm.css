@@ -1,0 +1,34 @@
+.addServiceForm{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.addServiceForm label{
+    font-weight: 700;
+    color: rgb(54, 54, 54);
+}
+
+input[type="file"] {
+    font-size: 14px;
+    text-align: center;
+}
+.custom-file-upload {
+    display: block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #DEFFED;
+    font-weight: 500 !important;
+    border: 1px solid #009444;
+    border-radius: 5px;
+    color: #009444;
+    position: relative;
+}
+.btnText {
+    position: absolute;
+    left: 0px;
+    background: #DEFFED;
+    font-size: 18px;
+    bottom: 5px;
+    padding: 0 5px;
+    color: #009444;
+}

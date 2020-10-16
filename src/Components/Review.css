@@ -1,0 +1,8 @@
+.singleReview {
+    border: 1px solid #E5E5E5;
+    padding: 20px;
+}
+.client-pic img{
+    border-radius: 50%;
+    border: 2px solid rgb(236, 235, 235);
+}

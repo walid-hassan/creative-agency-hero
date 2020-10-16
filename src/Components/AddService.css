@@ -1,0 +1,13 @@
+.menu h5 {
+    font-weight: 400;
+    font-size: 18px;
+    color: #484747;
+}
+.title h5 {
+    color: #484747;
+}
+.serviceForm {
+    background: #F3FAFD;
+    padding: 20px 40px;
+    min-height: 90vh;
+}

@@ -1,0 +1,9 @@
+.item img{
+    height: 200px;
+}
+.alice-carousel__prev-btn {
+    display: none !important;
+}
+.alice-carousel__next-btn {
+    display: none !important;
+}

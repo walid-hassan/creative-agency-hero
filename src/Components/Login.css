@@ -1,0 +1,13 @@
+.form{
+    width: 480px;
+    height: 370px;
+    border: 2px solid black;
+}
+.loginBtn {
+    border-radius: 44px;
+    padding: 5px 20px;
+    font-weight: 500;
+    background: white;
+    border: 1px solid #555050;
+    width: 280px;
+}

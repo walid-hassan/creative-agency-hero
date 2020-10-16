@@ -1,0 +1,10 @@
+.logo img{
+    width: 150px;
+}
+.blackBtn {
+    background: black;
+    color: #fff !important;
+    width: 80px;
+    text-align: center;
+    border-radius: 5px;
+}
